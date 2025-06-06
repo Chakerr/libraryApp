@@ -1,0 +1,4 @@
+echo ".venv/" >> .gitignore
+echo "library.log" >> .gitignore
+echo "pycache/" >> .gitignore
+echo "data/library.db" >> .gitignore
