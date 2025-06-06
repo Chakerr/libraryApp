@@ -1,4 +1,3 @@
-
 # 📚 library_app
 
 `library_app` es una aplicación de consola desarrollada en Python como parte del parcial final de la materia **Sistemas Operativos**.  
